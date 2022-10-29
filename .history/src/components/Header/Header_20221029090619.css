@@ -1,0 +1,6 @@
+.main-header{
+    height:10rem;
+    /* border:1px solid white */
+    display:flex;
+    justify-content: space-between;
+}

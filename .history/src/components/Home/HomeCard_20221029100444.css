@@ -1,0 +1,9 @@
+.home-card{
+    width:80%;
+    border:1px solid white;
+    height:100%;
+}
+.home-card>img{
+    height:10px;
+    
+}

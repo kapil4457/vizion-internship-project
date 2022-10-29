@@ -1,0 +1,12 @@
+.main-header{
+    height:10rem;
+    /* border:1px solid white */
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header > .left-header >img{
+    height:10rem;
+
+}

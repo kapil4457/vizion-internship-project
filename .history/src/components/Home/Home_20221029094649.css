@@ -1,0 +1,16 @@
+.main-home{
+    color:white;
+    width:100%;
+    
+}
+
+.main-home > h2{
+    width:100%;
+    border:1px solid white;
+    height:7rem;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size:4rem
+    
+}

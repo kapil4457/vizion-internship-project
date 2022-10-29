@@ -1,0 +1,10 @@
+.home-card{
+    width:80%;
+    border:1px solid white;
+    height:100%;
+    display:flex;
+}
+.home-card>img{
+    height:5rem;
+    
+}

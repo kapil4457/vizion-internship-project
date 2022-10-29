@@ -1,0 +1,13 @@
+.home-card{
+    width:90%;
+    border:1px solid white;
+    height:13rem;
+    display:flex;
+    gap:1rem;
+    align-items: center;
+    background-color: rgba(0,0,0,0.5);
+}
+.home-card>img{
+    height:10rem;
+    
+}
